@@ -20,6 +20,11 @@ In a Python script, train_classifier.py, is a machine learning pipeline that:
 - Outputs results on the test set
 - Exports the final model as a pickle file
 
+## 3. Flask Web App
+Provided with the flask web app template, but feel free to add extra features depending on your knowledge of flask, html, css and javascript. For this part: 
+- Modify file paths for database and model as needed
+- Add data visualizations using Plotly in the web app 
+
 # File structure:
 - app
   - template
