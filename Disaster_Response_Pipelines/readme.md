@@ -46,7 +46,7 @@ Provided with the flask web app template, but feel free to add extra features de
 
 # Model Results: 
 
-type | precision  |  recall | f1-score  | support
+message type | precision  |  recall | f1-score  | No. support cases
 ---- | ---------- | ------- | -------   |-------  
 related    |   0.86   |   0.81   |   0.83    |  1356
 request    |   0.79   |   0.70   |   0.74    |   727
@@ -84,5 +84,4 @@ earthquake    |   0.88   |   0.68   |   0.77   |    164
 cold   |    0.33   |   0.10   |   0.15     |   10
 other_weather   |    0.00  |    0.00   |   0.00    |   43
 direct_report   |    0.75   |   0.69    |  0.72   |    698
-
 avg / total    |   0.74   |   0.63   |   0.68   |   5836
